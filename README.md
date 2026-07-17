@@ -61,7 +61,7 @@ Web responsive orientada a presentar una interfaz visual clara, con estructura s
 
 ---
 
-### 🛒 Karn Official Store
+### 🛒 KÄRN
 
 Tienda online desarrollada en **Shopify**, enfocada en la presentación de productos, estructura visual y experiencia de navegación.
 
